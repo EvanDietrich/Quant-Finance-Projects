@@ -6,3 +6,4 @@
 - [3] [**Linear Correlation Analysis**](https://github.com/EvanDietrich/market-analysis/blob/master/linear-correlation-analysis.ipynb)
 - [4] [**Instability of Parameter Estimates**](https://github.com/EvanDietrich/market-analysis/blob/master/instability-of-parameter-estimates.ipynb)
 - [5] [**Intro Linear Regression**](https://github.com/EvanDietrich/market-analysis/blob/master/intro-linear-regression.ipynb)
+- [6] [**Regression Model Instability**](https://github.com/EvanDietrich/market-analysis/blob/master/regression-model-instability.ipynb)
