@@ -24,3 +24,6 @@ Regression analysis allows us to estimate coefficients in a function which appro
 - [**Multiple Linear Regression**](https://github.com/EvanDietrich/market-analysis/blob/master/multiple-linear-regression.ipynb)<br>
 Probably the single most used technique in modern quantitative finance.
 Multiple linear regression is just like single linear regression, except you can use many variables to predict one outcome and measure the relative contributions of each.
+
+- [**Violations of Regression Models**](https://github.com/EvanDietrich/market-analysis/blob/master/violations-of-regression-models.ipynb)<br>
+Assumptions of regression analysis must be satisfied to ensure good parameter estimates and accurate fit statistics. We would like parameters to be unbiased, consistent, and efficient. Here are some ways these assumptions can be violated and the effect on the parameters and fit statistics.
